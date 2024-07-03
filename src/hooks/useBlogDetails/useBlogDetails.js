@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 
 const useBlogDetails = blogId => {
   const [blog, setBlog] = useState({});
-
   
   useEffect(() => {
     const url = `https://tech-specter.onrender.com/blogs/${blogId}`;
