@@ -11,6 +11,7 @@ const DashboardHome = () => {
   const [userProfile, setUserProfile] = useState([]);
   const [user] = useAuthState(auth);
   const navigate = useNavigate();
+
   useEffect(() => {
     if (user) {
       fetch(`https://tech-specter.onrender.com/userProfile?email=${user.email}`, {
