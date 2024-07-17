@@ -19,6 +19,7 @@ const CheckOut = () => {
   if(user){
     // console.log(user);
   }
+  
 
   const handlePlaceOrder = event =>{
     event.preventDefault();
