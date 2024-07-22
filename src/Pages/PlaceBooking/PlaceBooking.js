@@ -18,6 +18,7 @@ const PlaceBooking = () => {
     // console.log(user);
   }
 
+
   const handlePlaceOrder = event =>{
     event.preventDefault();
     const order = {
