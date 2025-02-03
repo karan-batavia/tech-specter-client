@@ -2,10 +2,10 @@
 
 It's a web-based application that will help those users who want to make their life easier and secure. User can be getting amazing resources, great source of information for travelers, reading vlogs and most important is blood management in our project, there are lot of services provide which we need in our mechanical life.
 
-   
+    
 ## 🚀 Important Links
 
-- [Live Website- Tech Specter](https://agency-97aa4.web.app/)
+- [Live Website- Tech Specter](https://agency-97aa4   .web.app/)
 - [Project Presentation](https://docs.google.com/presentation/d/1O11rhGDIw7LHqvoPr_UsC3YpMGp1UbJh/edit?usp=share_link&ouid=109756157162586402730&rtpof=true&sd=true)
 - [Project Documentation](https://drive.google.com/file/d/1tOQI7dNMEWEoLmJH5NdPcDhLLxtFvLZU/view?usp=share_link)
 - [Server Side](https://github.com/shahidmonowarr/tech-specter-server).
